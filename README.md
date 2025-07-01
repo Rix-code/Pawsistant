@@ -1,4 +1,4 @@
-#Pawsistant
+# Pawsistant
 
 ## Getting Started
 This project is made using Flutter and Firebase as its main TechStack.
